@@ -63,7 +63,12 @@ namespace Estructura_de_control
             //Console.WriteLine("El precio final es: " + precioFinal);
 
 
-            //TALLER ESTRUCTURA DE CONTROL
+
+
+
+
+
+            //---------------------------//TALLER ESTRUCTURA DE CONTROL-------------------------------------------------
 
             //ejercicio1
             //    Console.WriteLine("Ingrese el monto del prestamo: ");
@@ -100,7 +105,7 @@ namespace Estructura_de_control
             //Console.WriteLine("Total a recibir: " + total);
 
 
-            //POO
+            //------------------------------------//POO-----------------------------------------------
             //int[] numeros = new int[3];
             //for (int i = 0; i < 3; i++)
             //{
@@ -113,55 +118,152 @@ namespace Estructura_de_control
             //}
 
 
-            //EJERCICIOS DE LISTA
-            List<int> numero = new List<int>();
 
-            numero.Add(10);
-            numero.Add(20);
-            numero.Add(30);
 
-            Console.WriteLine("Los números de la lista son: ");
-            foreach (int i in numero)
-            {
-                Console.WriteLine(1);
-            }
-            int segundoNumero = numero[1];
-            Console.WriteLine("El segundo numero de a lista es: " + segundoNumero);
 
-            numero[1] = 25;
-            Console.WriteLine("La lista después de modificar el segundo número: ");
-            foreach (int i in numero)
-            {
-                Console.WriteLine(1);
-            }
 
-            numero.Insert(0, 15);
-            Console.WriteLine("La lista después de insertar 15 en la posición 1: ");
-            foreach (int i in numero)
-            {
-                Console.WriteLine(i);
-            }
+            //-------------------------------------EJERCICIOS DE LISTA---------------------------------------
+            //List<int> numero = new List<int>();
 
-            numero.Remove(30);
-            Console.WriteLine("La lista después de eliminar número 30: ");
-            foreach (int i in numero)
-            {
-                Console.WriteLine(i);
-            }
-            numero.Remove(30);
-            Console.WriteLine("La lista después de eliminar número 30: ");
-            foreach (int i in numero)
-            {
-                Console.WriteLine(i);
-            }
+            //numero.Add(10);
+            //numero.Add(20);
+            //numero.Add(30);
 
-            numero.Sort();
-            Console.WriteLine("La lista después de ordenar:");
-            foreach (int i in numero)
-            {
-                Console.WriteLine(i);
-            }
+            //Console.WriteLine("Los números de la lista son: ");
+            //foreach (int i in numero)
+            //{
+            //    Console.WriteLine(1);
+            //}
+            //int segundoNumero = numero[1];
+            //Console.WriteLine("El segundo numero de a lista es: " + segundoNumero);
 
-        }
+            //numero[1] = 25;
+            //Console.WriteLine("La lista después de modificar el segundo número: ");
+            //foreach (int i in numero)
+            //{
+            //    Console.WriteLine(1);
+            //}
+
+            //numero.Insert(0, 15);
+            //Console.WriteLine("La lista después de insertar 15 en la posición 1: ");
+            //foreach (int i in numero)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            //numero.Remove(30);
+            //Console.WriteLine("La lista después de eliminar número 30: ");
+            //foreach (int i in numero)
+            //{
+            //    Console.WriteLine(i);
+            //}
+            //numero.Remove(30);
+            //Console.WriteLine("La lista después de eliminar número 30: ");
+            //foreach (int i in numero)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            //numero.Sort();
+            //Console.WriteLine("La lista después de ordenar:");
+            //foreach (int i in numero)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+
+
+
+            //-----------------------------------------------------------------------------------------
+
+            // Desarrollar un programa en C# que administre una
+            // lista de productos mediante listas.
+            // El programa permitirá:
+            //  Agregar productos con nombre y precio solicitado al usuario.
+            //  Mostrar la lista de productos.
+            //  Actualizar un producto existente.
+            //  Eliminar un producto de la lista.
+            //  Salir del programa.
+
+//                List<string> productos = new List<string>();
+//                List<double> precios = new List<double>();
+//                int opcion;
+
+//                do
+//                {
+//                    Console.WriteLine("\n--- MENÚ DE PRODUCTOS ---");
+//                    Console.WriteLine("1. Agregar producto");
+//                    Console.WriteLine("2. Mostrar productos");
+//                    Console.WriteLine("3. Actualizar producto");
+//                    Console.WriteLine("4. Eliminar producto");
+//                    Console.WriteLine("5. Salir");
+//                    Console.Write("Elige una opción: ");
+//                    opcion = int.Parse(Console.ReadLine());
+
+//                    switch (opcion)
+//                    {
+//                        case 1:
+//                            Console.Write("Nombre del producto: ");
+//                            string nombre = Console.ReadLine();
+//                            Console.Write("Precio del producto: ");
+//                            double precio = double.Parse(Console.ReadLine());
+//                            productos.Add(nombre);
+//                            precios.Add(precio);
+//                            Console.WriteLine("Producto agregado correctamente.");
+//                            break;
+
+//                        case 2:
+//                            Console.WriteLine("\nLista de productos:");
+//                            for (int i = 0; i < productos.Count; i++)
+//                            {
+//                                Console.WriteLine($"{i + 1}. {productos[i]} - ${precios[i]}");
+//                            }
+//                            break;
+
+//                        case 3:
+//                            Console.Write("Número del producto a actualizar: ");
+//                            int num = int.Parse(Console.ReadLine()) - 1;
+//                            if (num >= 0 && num < productos.Count)
+//                            {
+//                                Console.Write("Nuevo nombre: ");
+//                                productos[num] = Console.ReadLine();
+//                                Console.Write("Nuevo precio: ");
+//                                precios[num] = double.Parse(Console.ReadLine());
+//                                Console.WriteLine("Producto actualizado.");
+//                            }
+//                            else
+//                            {
+//                                Console.WriteLine("Número inválido.");
+//                            }
+//                            break;
+
+//                        case 4:
+//                            Console.Write("Número del producto a eliminar: ");
+//                            int elim = int.Parse(Console.ReadLine()) - 1;
+//                            if (elim >= 0 && elim < productos.Count)
+//                            {
+//                                productos.RemoveAt(elim);
+//                                precios.RemoveAt(elim);
+//                                Console.WriteLine("Producto eliminado.");
+//                            }
+//                            else
+//                            {
+//                                Console.WriteLine("Número inválido.");
+//                            }
+//                            break;
+
+//                        case 5:
+//                            Console.WriteLine("Saliendo del programa...");
+//                            break;
+
+//                        default:
+//                            Console.WriteLine("Opción no válida.");
+//                            break;
+//                    }
+
+//                } while (opcion != 5);
+//            }
+//        }
+    }
     }
 }
