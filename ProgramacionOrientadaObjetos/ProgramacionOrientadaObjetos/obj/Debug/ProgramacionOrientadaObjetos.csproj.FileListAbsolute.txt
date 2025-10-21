@@ -1,0 +1,8 @@
+C:\Users\valer\source\repos\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\bin\Debug\ProgramacionOrientadaObjetos.exe.config
+C:\Users\valer\source\repos\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\bin\Debug\ProgramacionOrientadaObjetos.exe
+C:\Users\valer\source\repos\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\bin\Debug\ProgramacionOrientadaObjetos.pdb
+C:\Users\valer\source\repos\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.exe
+C:\Users\valer\source\repos\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.pdb
+C:\Users\valer\source\repos\ProgramacionOrientadaObjetos\ProgramacionOrientadaObjetos\obj\Debug\ProgramacionOrientadaObjetos.exe.config
