@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\3147910-Nicol\\Accesos\\Empresa_HuellitasFelices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59FF417F-44A2-433F-A425-43CEA87FDC85}|Empresa_HuellitasFelices\\Empresa_HuellitasFelices.csproj|c:\\users\\user\\source\\repos\\3147910-nicol\\accesos\\empresa_huellitasfelices\\empresa_huellitasfelices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FF417F-44A2-433F-A425-43CEA87FDC85}|Empresa_HuellitasFelices\\Empresa_HuellitasFelices.csproj|solutionrelative:empresa_huellitasfelices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FF417F-44A2-433F-A425-43CEA87FDC85}|Empresa_HuellitasFelices\\Empresa_HuellitasFelices.csproj|c:\\users\\user\\source\\repos\\3147910-nicol\\accesos\\empresa_huellitasfelices\\empresa_huellitasfelices\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FF417F-44A2-433F-A425-43CEA87FDC85}|Empresa_HuellitasFelices\\Empresa_HuellitasFelices.csproj|solutionrelative:empresa_huellitasfelices\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol\\Accesos\\Empresa_HuellitasFelices\\Empresa_HuellitasFelices\\Mascota.cs",
+              "RelativeDocumentMoniker": "Empresa_HuellitasFelices\\Mascota.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\3147910-Nicol\\Accesos\\Empresa_HuellitasFelices\\Empresa_HuellitasFelices\\Mascota.cs",
+              "RelativeToolTip": "Empresa_HuellitasFelices\\Mascota.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:40:51.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol\\Accesos\\Empresa_HuellitasFelices\\Empresa_HuellitasFelices\\Program.cs",
+              "RelativeDocumentMoniker": "Empresa_HuellitasFelices\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\3147910-Nicol\\Accesos\\Empresa_HuellitasFelices\\Empresa_HuellitasFelices\\Program.cs",
+              "RelativeToolTip": "Empresa_HuellitasFelices\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:36:51.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
