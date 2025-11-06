@@ -7,6 +7,9 @@ var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
+    //valicacion de la base de datos
+    builder.Services.AddDbContext<ApplicationDbContext>(option =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("conexion")));
 {
     app.UseExceptionHandler("/Error");
 }
