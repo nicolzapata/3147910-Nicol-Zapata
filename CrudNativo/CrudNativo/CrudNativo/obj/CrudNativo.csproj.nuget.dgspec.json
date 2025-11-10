@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\CrudNativo\\CrudNativo\\CrudNativo\\CrudNativo.csproj": {}
+    "C:\\Users\\User\\source\\repos\\nicol\\CrudNativo\\CrudNativo\\CrudNativo\\CrudNativo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\CrudNativo\\CrudNativo\\CrudNativo\\CrudNativo.csproj": {
+    "C:\\Users\\User\\source\\repos\\nicol\\CrudNativo\\CrudNativo\\CrudNativo\\CrudNativo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\CrudNativo\\CrudNativo\\CrudNativo\\CrudNativo.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\nicol\\CrudNativo\\CrudNativo\\CrudNativo\\CrudNativo.csproj",
         "projectName": "CrudNativo",
-        "projectPath": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\CrudNativo\\CrudNativo\\CrudNativo\\CrudNativo.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\nicol\\CrudNativo\\CrudNativo\\CrudNativo\\CrudNativo.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\CrudNativo\\CrudNativo\\CrudNativo\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\nicol\\CrudNativo\\CrudNativo\\CrudNativo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

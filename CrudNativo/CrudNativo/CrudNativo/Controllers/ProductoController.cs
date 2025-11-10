@@ -20,25 +20,25 @@ namespace CrudNativo.Controllers
             return View(ListaProductos);
         }
         //Metodo GET Crear-----------------------------------------
-        public ActionResult Crear()
+        public ActionResult Create()
         {
             return View();
         }
         //Metodo POST Crear-----------------------------------------
         [HttpPost]
-        public IActionResult Crear(Producto producto)
+        public IActionResult Create(Producto producto)
         {
             if (ModelState.IsValid)
             {
                 _context.Productos.Add(producto);
                 _context.SaveChanges();
-                return View(producto);
+                return RedirectToAction("Index");
             }
             return View(producto);
         }
 
             //Metodo GET edit---------------------------------------
-            public IActionResult Editar(int? id)
+            public IActionResult Edit(int? id)
             {
                 if (id == null || id == 0)
                 {
@@ -55,7 +55,7 @@ namespace CrudNativo.Controllers
             //Metodo Post editar--------------------------------------
             [HttpPost]
 
-            public IActionResult Editar(Producto producto) 
+            public IActionResult Edit(Producto producto) 
             {
                 if (ModelState.IsValid) 
                 {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudNativo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fb65c4ebac727ca35e10f146ba582813a7298da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdae03c622b7c0a65c225c654cd33d2913cf3a63")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudNativo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudNativo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
