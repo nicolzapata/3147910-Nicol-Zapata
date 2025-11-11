@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taller-proyectoMVC_NicolZapata")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad4dcf64d0e790e72b10c61c3d7ee88806080c12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c46072314fb172056313bca8d1a3604507330b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taller-proyectoMVC_NicolZapata")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taller-proyectoMVC_NicolZapata")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
