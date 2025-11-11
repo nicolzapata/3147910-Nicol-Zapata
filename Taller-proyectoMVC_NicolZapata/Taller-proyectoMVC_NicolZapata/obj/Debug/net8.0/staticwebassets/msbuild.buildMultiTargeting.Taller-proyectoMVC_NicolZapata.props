@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Taller-proyectoMVC_NicolZapata.props" />
+</Project>
