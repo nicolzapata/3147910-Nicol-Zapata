@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Taller-proyectoMVC_NicolZapata.props" />
-</Project>
