@@ -1,10 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using SistemaEscolar.Models;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Validacion de la Base de Datos
 builder.Services.AddDbContext<SistemaEscolarContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("conexion")));
+
+builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<SistemaEscolarContext>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -21,9 +24,11 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+app.MapRazorPages();
 app.Run();

@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace SistemaEscolar.Models;
 
-public partial class SistemaEscolarContext : DbContext
+public partial class SistemaEscolarContext : IdentityDbContext
 {
     public SistemaEscolarContext()
     {
@@ -89,6 +90,7 @@ public partial class SistemaEscolarContext : DbContext
                 .HasForeignKey(d => d.IdEstudiante)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK__Matricula__IdEst__5629CD9C");
+                base.OnModelCreating(modelBuilder);
         });
 
         OnModelCreatingPartial(modelBuilder);
