@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|c:\\users\\user\\source\\repos\\3147910-nicol-zapata\\sistemaescolar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|c:\\users\\user\\source\\repos\\3147910-nicol-zapata\\sistemaescolar\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|c:\\users\\user\\source\\repos\\3147910-nicol-zapata\\sistemaescolar\\migrations\\20251119181709_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|solutionrelative:migrations\\20251119181709_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|c:\\users\\user\\source\\repos\\3147910-nicol-zapata\\sistemaescolar\\controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|solutionrelative:controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|c:\\users\\user\\source\\repos\\3147910-nicol-zapata\\sistemaescolar\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|solutionrelative:controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|c:\\users\\user\\source\\repos\\3147910-nicol-zapata\\sistemaescolar\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|solutionrelative:controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|c:\\users\\user\\source\\repos\\3147910-nicol-zapata\\sistemaescolar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|c:\\users\\user\\source\\repos\\3147910-nicol-zapata\\sistemaescolar\\models\\sistemaescolarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|solutionrelative:models\\sistemaescolarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|c:\\users\\user\\source\\repos\\3147910-nicol-zapata\\sistemaescolar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|c:\\users\\user\\source\\repos\\3147910-nicol-zapata\\sistemaescolar\\migrations\\20251119181709_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|solutionrelative:migrations\\20251119181709_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B961E1DE-D8F7-4BC4-BC54-B2E8E07D4732}|SistemaEscolar.csproj|c:\\users\\user\\source\\repos\\3147910-nicol-zapata\\sistemaescolar\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +78,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "CursoesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Controllers\\CursoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CursoesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Controllers\\CursoesController.cs",
+              "RelativeToolTip": "Controllers\\CursoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:35:04.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:34:58.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:34:49.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatriculasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Controllers\\MatriculasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MatriculasController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Controllers\\MatriculasController.cs",
+              "RelativeToolTip": "Controllers\\MatriculasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:34:47.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAUAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T19:12:24.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:36:10.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "20251119181709_inicial.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Migrations\\20251119181709_inicial.cs",
               "RelativeDocumentMoniker": "Migrations\\20251119181709_inicial.cs",
@@ -83,12 +164,11 @@
               "RelativeToolTip": "Migrations\\20251119181709_inicial.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABEBAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T18:17:10.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T18:17:10.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
@@ -96,33 +176,19 @@
               "RelativeToolTip": "ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-11-19T18:11:57.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T18:11:57.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SistemaEscolarContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Models\\SistemaEscolarContext.cs",
               "RelativeDocumentMoniker": "Models\\SistemaEscolarContext.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Models\\SistemaEscolarContext.cs",
               "RelativeToolTip": "Models\\SistemaEscolarContext.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowFwAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T18:04:08.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\3147910-Nicol-Zapata\\SistemaEscolar\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T19:36:10.22Z",
               "EditorCaption": ""
             }
           ]
