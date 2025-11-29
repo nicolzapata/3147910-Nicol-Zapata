@@ -1,0 +1,39 @@
+﻿@model gestion_tienda.Models.Venta
+
+@{
+    ViewData["Title"] = "Detalle Venta";
+}
+
+<h2>Detalle de Venta #@Model.Id</h2>
+
+<div class="mb-3">
+    <strong>Cliente:</strong> @Model.Cliente?.NombreCompleto <br />
+    <strong>Fecha:</strong> @Model.Fecha.ToString("g") <br />
+    <strong>Total:</strong> @Model.Total?.ToString("C")
+</div>
+
+<h4>Productos</h4>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Producto</th>
+            <th>Precio Unitario</th>
+            <th>Cantidad</th>
+            <th>Subtotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model.DetalleVenta)
+        {
+            <tr>
+                <td>@d.Producto?.Nombre</td>
+                <td>@d.PrecioUnitario.ToString("C")</td>
+                <td>@d.Cantidad</td>
+                <td>@(d.Cantidad* d.PrecioUnitario).ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">Volver</a>

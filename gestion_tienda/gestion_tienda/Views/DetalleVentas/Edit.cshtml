@@ -1,0 +1,56 @@
+﻿@model gestion_tienda.Models.DetalleVenta
+
+@{
+    ViewData["Title"] = "Editar Detalle de Venta";
+}
+
+<h2>Editar Detalle de Venta</h2>
+
+<form asp-action="Edit" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <!-- ID oculto -->
+    <input type="hidden" asp-for="Id" />
+
+    <!-- Venta -->
+    <div class="form-group mb-3">
+        <label asp-for="VentaId" class="control-label">Venta</label>
+        <select asp-for="VentaId" class="form-control" asp-items="ViewBag.VentaId">
+            <option value="">Seleccione una venta</option>
+        </select>
+        <span asp-validation-for="VentaId" class="text-danger"></span>
+    </div>
+
+    <!-- Producto -->
+    <div class="form-group mb-3">
+        <label asp-for="ProductoId" class="control-label">Producto</label>
+        <select asp-for="ProductoId" class="form-control" asp-items="ViewBag.ProductoId">
+            <option value="">Seleccione un producto</option>
+        </select>
+        <span asp-validation-for="ProductoId" class="text-danger"></span>
+    </div>
+
+    <!-- Cantidad -->
+    <div class="form-group mb-3">
+        <label asp-for="Cantidad" class="control-label">Cantidad</label>
+        <input asp-for="Cantidad" class="form-control" min="1" />
+        <span asp-validation-for="Cantidad" class="text-danger"></span>
+    </div>
+
+    <!-- Precio -->
+    <div class="form-group mb-3">
+        <label asp-for="PrecioUnitario" class="control-label">Precio Unitario</label>
+        <input asp-for="PrecioUnitario" class="form-control" readonly />
+        <span asp-validation-for="PrecioUnitario" class="text-danger"></span>
+    </div>
+
+    <!-- Botones -->
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

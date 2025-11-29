@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\gestion_tienda",
+    "\\gestion_tienda\\Areas",
+    "\\gestion_tienda\\Areas\\Identity",
+    "\\gestion_tienda\\bin",
+    "\\gestion_tienda\\Views",
+    "\\gestion_tienda\\Views\\Clientes",
+    "\\gestion_tienda\\Views\\DetalleVentas",
+    "\\gestion_tienda\\Views\\Ventas",
+    "\\gestion_tienda\\wwwroot"
+  ],
+  "SelectedNode": "\\gestion_tienda\\Views\\Clientes\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
